@@ -43,6 +43,25 @@ This colorway is for zero-risk users, who deal with very special kind of website
 > [!CAUTION]
 > Cinema // Color Encoding Environments are highly technical regarding color codes, and might suffer monumental misjudgements in the event of a potential mistaking of a color code due to human error. Always proceed with caution while working with these categories of environments.
 
+![Forest Grove](https://github.com/Eden-by-Alfarex/palette/assets/78948152/ad89d7c6-2756-48bd-b25f-73e5fca43ee7)
 
+### Forest Eden Colorway:
+<!--- Easy on the eyes, this bold yet calm colorway is made for the soothing natural shades of the Internet. With the dominance of camouflage green combined with the silky textures of seasalt, this is the epitome of **eye-candy** in the web world; ideal for webpages utilising e-commerce // decor ideas, as well as artistic pieces. --->
 
+Embrace the allure of the Forest Eden Colorway, where bold meets calm in a harmonious blend that soothes the soul. Dominated by the lush depth of camouflage green and caressed by the gentle touch of seasalt's silky textures, this colorway is a feast for the eyes in the digital realm. Perfectly crafted for e-commerce webpages, decor inspirations, and artistic creations, Forest Eden is not just a color scheme—it's an experience, inviting viewers into a world where nature's tranquility meets the vibrancy of the Internet. Unlock the potential of your digital spaces with the ultimate eye-candy: Forest Eden Colorway.
+
+##### Recommended Environments:
+- Home pages
+- Landing pages
+- 404 // PHP // Server pages
+- Contact pages
+
+##### HEX Codes used:
+- `#143109`
+- `#AAAE7F`
+- `#D0D6B3`
+- `#F7F7F7`
+- `#EFEFEF`
+> [!TIP]
+> Try to stick to your theme, I recommend you look into other palettes if they match the context and theme of your content and website pages.
 
